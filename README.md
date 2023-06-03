@@ -1,4 +1,4 @@
-# Assignment10-Jo-DIkta-Hai_Wo-Bikta-Hai
+# Assignment10-Data-Is-the-new-Oil
 ## Theory
 
 Qn1.What is Prop Drilling?
